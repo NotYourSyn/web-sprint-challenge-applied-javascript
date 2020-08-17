@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+    // The DOM is an object representation of every element on a HTML page and it allows us to manipulate and update by adding/removing/styling elements.
+
 2. What is an event?
+
+    // Anything the end user can do to interact w a webpage such as clicking on photos, scrolling, resizing windows etc.
 
 3. What is an event listener?
 
+    // It is a function that is triggered when an end user triggers an event. Event Listeners are attached to specific elements individually.
+
 4. Why would we convert a NodeList into an Array?
 
+    // We would convert to add more function and abilities to the Node-List, though Node-Lists are 'Array-Like" they still lack certain functions that arrays allow.
+
 5. What is a component?
+
+    // a reusable chunk of code that is independent, similiar to a JS function but works independently and returns HTML, there are two types of components, Class components and Function components.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
@@ -68,7 +78,7 @@ Your finished project must include all of the following requirements:
 
 - [x] Following the instructions in the `components/Tabs.js` file, create the Tabs.
 
-- [ ] Following the instructions in the `components/Cards.js` file, create the Cards.
+- [x] Following the instructions in the `components/Cards.js` file, create the Cards.
 
 In your solution, it is essential that you follow best practices and produce clean and professional results. You will be scored on your adherence to proper code style and good organization. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 
